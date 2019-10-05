@@ -1,5 +1,5 @@
 {
-  "name": "umbrellio/laravel-ltree",
+  "name": "softlab/laravel-ltree",
   "type": "library",
   "description": "Postgres SQL Extension LTree for ancestry and nested",
   "minimum-stability": "stable",
